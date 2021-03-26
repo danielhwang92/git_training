@@ -4,4 +4,5 @@ Cambio extra en Alicia.
 Extra change.
 Web change.
 Another web change.
+Local change.
 Another web change in order to generate a conflict.
